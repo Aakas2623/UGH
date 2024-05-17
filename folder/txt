@@ -1,0 +1,7 @@
+#ios <stream>
+usingh namespace editor
+
+int main() 
+{
+  cout << "Aakash" << endl;
+}
